@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Countries from './components/countries';
+import Countries from './components/SelectCountries';
 import CountryDetails from './components/CountryDetails'
 
 export default function App() {
